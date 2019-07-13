@@ -1,2 +1,2 @@
 # hello-world
-nothing
+I am a student from USTC.
